@@ -1,2 +1,2 @@
-# -Digital_signal_processing
+# Digital_signal_processing
 DSP проекты
